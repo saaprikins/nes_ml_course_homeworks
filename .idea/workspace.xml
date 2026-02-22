@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c05fee8-af1c-405a-98af-366348142449" name="Changes" comment="- first done">
+    <list default="true" id="8c05fee8-af1c-405a-98af-366348142449" name="Changes" comment="- second progress, 4">
+      <change beforePath="$PROJECT_DIR$/.idea/ml_course_hws.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ml_course_hws.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_practice_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/homework_practice_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_practice_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/homework_practice_2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +16,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -44,6 +46,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
 }</component>
@@ -86,7 +89,47 @@
       <option name="project" value="LOCAL" />
       <updated>1771628553379</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="- second started&#10;- removed output from the first">
+      <option name="closed" value="true" />
+      <created>1771749359418</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1771749359418</updated>
+    </task>
+    <task id="LOCAL-00005" summary="- second progress">
+      <option name="closed" value="true" />
+      <created>1771760596622</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1771760596622</updated>
+    </task>
+    <task id="LOCAL-00006" summary="- second progress, 2">
+      <option name="closed" value="true" />
+      <created>1771763353265</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1771763353265</updated>
+    </task>
+    <task id="LOCAL-00007" summary="- second progress, 3">
+      <option name="closed" value="true" />
+      <created>1771769244794</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1771769244794</updated>
+    </task>
+    <task id="LOCAL-00008" summary="- second progress, 4">
+      <option name="closed" value="true" />
+      <created>1771773291526</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1771773291526</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +147,11 @@
     <MESSAGE value="- initial" />
     <MESSAGE value="- first half" />
     <MESSAGE value="- first done" />
-    <option name="LAST_COMMIT_MESSAGE" value="- first done" />
+    <MESSAGE value="- second started&#10;- removed output from the first" />
+    <MESSAGE value="- second progress" />
+    <MESSAGE value="- second progress, 2" />
+    <MESSAGE value="- second progress, 3" />
+    <MESSAGE value="- second progress, 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="- second progress, 4" />
   </component>
 </project>

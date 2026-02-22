@@ -1,0 +1,67 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"8c05fee8-af1c-405a-98af-366348142449\" name=\"Changes\" comment=\"- first done, fix\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/homework_practice_1.ipynb\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/homework_practice_1.ipynb\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;saaprikins&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;https://github.com/saaprikins/nes_ml_course_homeworks.git&quot;,\n    &quot;accountId&quot;: &quot;ed6ba487-8f31-4d70-aac8-48fbcb3ef4b3&quot;\n  }\n}</component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 7\n}</component>\n  <component name=\"ProjectId\" id=\"39wivnthxr9uiwbVRmC0Vi1ZYsr\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;main&quot;,\n    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,\n    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-python-sdk-b3ae9b5d7125-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.439\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"8c05fee8-af1c-405a-98af-366348142449\" name=\"Changes\" comment=\"\" />\n      <created>1771613766831</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1771613766831</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"- initial\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1771619400505</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1771619400505</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"- first half\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1771622870159</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1771622870159</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"- first done\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1771628553379</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1771628553379</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"- first done, fix\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1771656435923</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1771656435923</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"5\" />\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"- initial\" />\n    <MESSAGE value=\"- first half\" />\n    <MESSAGE value=\"- first done\" />\n    <MESSAGE value=\"- first done, fix\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"- first done, fix\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision c8c7d500a84ec005a07479e8f743d5b0367d9f81)
++++ b/.idea/workspace.xml	(date 1771748143794)
+@@ -4,10 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="8c05fee8-af1c-405a-98af-366348142449" name="Changes" comment="- first done, fix">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/homework_practice_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/homework_practice_1.ipynb" afterDir="false" />
+-    </list>
++    <list default="true" id="8c05fee8-af1c-405a-98af-366348142449" name="Changes" comment="- second started&#10;- removed output from the first" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -94,7 +91,31 @@
+       <option name="project" value="LOCAL" />
+       <updated>1771656435923</updated>
+     </task>
+-    <option name="localTasksCounter" value="5" />
++    <task id="LOCAL-00005" summary="- second started&#10;- minor changes in the first">
++      <option name="closed" value="true" />
++      <created>1771748019483</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1771748019484</updated>
++    </task>
++    <task id="LOCAL-00006" summary="- second started&#10;- removed output from the first">
++      <option name="closed" value="true" />
++      <created>1771748075663</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1771748075663</updated>
++    </task>
++    <task id="LOCAL-00007" summary="- second started&#10;- removed output from the first">
++      <option name="closed" value="true" />
++      <created>1771748139329</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1771748139329</updated>
++    </task>
++    <option name="localTasksCounter" value="8" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -113,6 +134,9 @@
+     <MESSAGE value="- first half" />
+     <MESSAGE value="- first done" />
+     <MESSAGE value="- first done, fix" />
+-    <option name="LAST_COMMIT_MESSAGE" value="- first done, fix" />
++    <MESSAGE value="- removed outputs" />
++    <MESSAGE value="- second started&#10;- minor changes in the first" />
++    <MESSAGE value="- second started&#10;- removed output from the first" />
++    <option name="LAST_COMMIT_MESSAGE" value="- second started&#10;- removed output from the first" />
+   </component>
+ </project>
+\ No newline at end of file
