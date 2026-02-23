@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c05fee8-af1c-405a-98af-366348142449" name="Changes" comment="- second progress, 7">
+    <list default="true" id="8c05fee8-af1c-405a-98af-366348142449" name="Changes" comment="- second progress, 8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework_practice_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/homework_practice_2.ipynb" afterDir="false" />
     </list>
@@ -153,7 +153,23 @@
       <option name="project" value="LOCAL" />
       <updated>1771867147808</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="- second progress, 8">
+      <option name="closed" value="true" />
+      <created>1771871847424</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1771871847424</updated>
+    </task>
+    <task id="LOCAL-00013" summary="- second progress, 8">
+      <option name="closed" value="true" />
+      <created>1771871869280</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1771871869280</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,7 +195,8 @@
     <MESSAGE value="- second progress, 5" />
     <MESSAGE value="- second progress, 6" />
     <MESSAGE value="- second progress, 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="- second progress, 7" />
+    <MESSAGE value="- second progress, 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="- second progress, 8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
