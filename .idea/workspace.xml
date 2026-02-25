@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c05fee8-af1c-405a-98af-366348142449" name="Changes" comment="- third started">
+    <list default="true" id="8c05fee8-af1c-405a-98af-366348142449" name="Changes" comment="- third started, progress 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework_practice_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/homework_practice_3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771976336501</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="- third started, progress 1">
+      <option name="closed" value="true" />
+      <created>1772022329841</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1772022329841</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,7 +239,8 @@
     <MESSAGE value="- second progress, finished" />
     <MESSAGE value="- updated README.md" />
     <MESSAGE value="- third started" />
-    <option name="LAST_COMMIT_MESSAGE" value="- third started" />
+    <MESSAGE value="- third started, progress 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="- third started, progress 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -247,16 +254,6 @@
           <url>file://$PROJECT_DIR$/homework_practice_3.ipynb</url>
           <line>63</line>
           <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/homework_practice_3.ipynb</url>
-          <line>164</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/homework_practice_3.ipynb</url>
-          <line>92</line>
-          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
