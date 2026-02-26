@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c05fee8-af1c-405a-98af-366348142449" name="Changes" comment="- third progress, 3">
+    <list default="true" id="8c05fee8-af1c-405a-98af-366348142449" name="Changes" comment="- third progress, 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework_practice_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/homework_practice_3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772052344788</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="- third progress, 4">
+      <option name="closed" value="true" />
+      <created>1772058910524</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1772058910524</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,7 +266,8 @@
     <MESSAGE value="- third started, progress 1" />
     <MESSAGE value="- third progress 2" />
     <MESSAGE value="- third progress, 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="- third progress, 3" />
+    <MESSAGE value="- third progress, 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="- third progress, 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
