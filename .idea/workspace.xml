@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c05fee8-af1c-405a-98af-366348142449" name="Changes" comment="- third progress, finished">
+    <list default="true" id="8c05fee8-af1c-405a-98af-366348142449" name="Changes" comment="- fourth, started">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_practice_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/homework_practice_3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_practice_4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/homework_practice_4.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,7 +241,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772106792531</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="- fourth, started">
+      <option name="closed" value="true" />
+      <created>1772441061209</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1772441061209</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -276,7 +284,8 @@
     <MESSAGE value="- third progress, 3" />
     <MESSAGE value="- third progress, 4" />
     <MESSAGE value="- third progress, 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="- third progress, 5" />
+    <MESSAGE value="- fourth, started" />
+    <option name="LAST_COMMIT_MESSAGE" value="- fourth, started" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
