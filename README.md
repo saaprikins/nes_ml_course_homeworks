@@ -4,4 +4,4 @@ Topics per assignment:
 1. Intro to `pandas` and `matplotlib` (used `plotly` instead)
 2. EDA and linear regression models `Ridge` and `Lasso` on _New York City Taxi Trip Duration_ problem data, alpha grid search
 3. Self-built gradient descent and variations: (batch) SGD, Momentum, AdaGrad, RMSProp. Tested on data from the second assignment
-
+4. Binary classification problem, usage of `LogisticRegression` and `SVC`. Calibration curves, interpretation of scores. Different ways of encoding categorical variables: `OrdinalEncoder`, `OneHotEncoder`, `TargetEncoder`. Different ways of feature selection (after OHE): embedded methods, filet methods, wrapper methods. 
