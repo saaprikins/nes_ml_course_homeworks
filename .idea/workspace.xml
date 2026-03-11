@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c05fee8-af1c-405a-98af-366348142449" name="Changes" comment="- fourth, progress 8">
+    <list default="true" id="8c05fee8-af1c-405a-98af-366348142449" name="Changes" comment="- fourth, progress finished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_practice_4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/homework_practice_4.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -337,7 +336,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773055546223</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="- fourth, progress finished">
+      <option name="closed" value="true" />
+      <created>1773089129495</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1773089129495</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -352,7 +359,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="- second progress" />
     <MESSAGE value="- second progress, 2" />
     <MESSAGE value="- second progress, 3" />
     <MESSAGE value="- second progress, 4" />
@@ -377,7 +383,8 @@
     <MESSAGE value="- fourth, progress 6" />
     <MESSAGE value="- fourth, progress 7" />
     <MESSAGE value="- fourth, progress 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="- fourth, progress 8" />
+    <MESSAGE value="- fourth, progress finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="- fourth, progress finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
