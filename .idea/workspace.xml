@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c05fee8-af1c-405a-98af-366348142449" name="Changes" comment="- sixth, progress 1">
+    <list default="true" id="8c05fee8-af1c-405a-98af-366348142449" name="Changes" comment="- sixth, progress 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework_practice_6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/homework_practice_6.ipynb" afterDir="false" />
     </list>
@@ -429,7 +429,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773963037712</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="- sixth, progress 2">
+      <option name="closed" value="true" />
+      <created>1774017803176</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1774017803176</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -444,7 +452,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="- third started" />
     <MESSAGE value="- third started, progress 1" />
     <MESSAGE value="- third progress 2" />
     <MESSAGE value="- third progress, 3" />
@@ -469,7 +476,8 @@
     <MESSAGE value="- fifth, finished" />
     <MESSAGE value="- sixth, started" />
     <MESSAGE value="- sixth, progress 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="- sixth, progress 1" />
+    <MESSAGE value="- sixth, progress 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="- sixth, progress 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -486,13 +494,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>file://$PROJECT_DIR$/homework_practice_6.ipynb</url>
-          <line>243</line>
+          <line>255</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>file://$PROJECT_DIR$/homework_practice_6.ipynb</url>
-          <line>234</line>
-          <option name="timeStamp" value="12" />
+          <line>213</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/homework_practice_6.ipynb</url>
+          <line>244</line>
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
